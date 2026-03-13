@@ -45,8 +45,8 @@ Path planning helps to improve the printed surface quality, shape accuracy and i
 
 ## OUTPUT:
 
-### NAME:
-### REGISTER NUMBER:
+### NAME: R P LOSHINI
+### REGISTER NUMBER: 212225230155
 
 ## RESULT: 
 Thus the simulation on the Preprocessing in additive manufacturing is completed.
