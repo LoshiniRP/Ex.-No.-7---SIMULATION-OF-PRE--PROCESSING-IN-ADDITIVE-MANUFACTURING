@@ -44,6 +44,14 @@ Path planning helps to improve the printed surface quality, shape accuracy and i
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## OUTPUT:
+<img width="1491" height="811" alt="image" src="https://github.com/user-attachments/assets/e009d086-ad8d-4085-8ceb-7e10af0b7e2e" />
+
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/8dd6f9cd-d300-4c18-8110-4789fa09d503" />
+
+<img width="1389" height="736" alt="image" src="https://github.com/user-attachments/assets/38155823-2c01-4244-b1d4-de167dc34402" />
+
+<img width="1872" height="839" alt="Screenshot 2026-03-13 085800" src="https://github.com/user-attachments/assets/220e780e-ab8e-464d-a766-4830eadf1a0a" />
+
 
 ### NAME: R P LOSHINI
 ### REGISTER NUMBER: 212225230155
